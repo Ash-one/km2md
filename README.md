@@ -1,0 +1,2 @@
+# km2md
+将km文件的思维导图转换为多级标题的markdown文件，方便使用markmap查看思维导图
